@@ -1,0 +1,7 @@
+name: Publish Document
+account: rpubs
+server: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/214389/1d39f63b21104f088faa906c76acefd5
+bundleId: https://api.rpubs.com/api/v1/document/214389/1d39f63b21104f088faa906c76acefd5
+url: http://rpubs.com/sweimh/214389
+when: 1475387605.41732
